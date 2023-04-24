@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/semi */
 import { isLeap } from "./leap";
 
 describe("A leap year", () => {
